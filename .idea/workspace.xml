@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5af9bf80-f4ce-4e8b-bcf1-ceb8f1f46eb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Freestyle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Freestyle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
