@@ -5,11 +5,14 @@ def rand():
 
 
 def randconf():
-    confirm = input("Enter yes or no :")
-    while confirm != "no" and confirm != "n":
+    confirm = input("Enter 'yes' to generate numbers or 'no' to exit :")
+    while confirm == "yes" or confirm == "y" or confirm == "Yes" or confirm == "Y" or confirm == "YES":
         rand()
-    if confirm == "no" or confirm == "n":
+    if confirm == "no" or confirm == "n" or confirm == "N" or confirm == "NO":
         print("Exiting code ")
+        exit()
+    else:
+        print("Wrong input please try running the programme again with valid input ")
         exit()
 
 
