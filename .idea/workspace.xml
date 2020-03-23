@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5af9bf80-f4ce-4e8b-bcf1-ceb8f1f46eb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Freestyle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nth term.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Freestyle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Freestyle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +37,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Refresh" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Freestyle">
-    <configuration name="Dictionaties(in or not in)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bit reader">
+    <configuration name="Freestyle2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pycharm_First_project_Edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaties(in or not in).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Freestyle2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Freestyle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bit reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pycharm_First_project_Edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Freestyle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bit reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Random_int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pycharm_First_project_Edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random_int.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nth term" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pycharm_First_project_Edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class polynomial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nth term.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequence_testcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sequence_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pycharm_First_project_Edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequence_testcode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequence_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Freestyle" />
-        <item itemvalue="Python.Dictionaties(in or not in)" />
-        <item itemvalue="Python.class polynomial" />
-        <item itemvalue="Python.sequence_testcode" />
-        <item itemvalue="Python.Random_int" />
+        <item itemvalue="Python.bit reader" />
+        <item itemvalue="Python.Freestyle2" />
+        <item itemvalue="Python.sequence_generator" />
+        <item itemvalue="Python.nth term" />
+        <item itemvalue="Python.lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -174,47 +179,51 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="932" y="277" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1582866710014" />
-    <state width="1897" height="239" key="GridCell.Tab.0.bottom" timestamp="1584547831768">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1343" height="142" key="GridCell.Tab.0.bottom" timestamp="1584995075223">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1897" height="239" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584257282136" />
-    <state width="1343" height="144" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584018599043" />
+    <state width="1343" height="142" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584995075223" />
+    <state width="1897" height="238" key="GridCell.Tab.0.bottom/0.512.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584731435556" />
     <state width="1343" height="239" key="GridCell.Tab.0.bottom/0.514.1366.768/1366.0.1920.1080@0.514.1366.768" timestamp="1584373664873" />
     <state width="1897" height="239" key="GridCell.Tab.0.bottom/0.514.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584373693618" />
-    <state width="1897" height="239" key="GridCell.Tab.0.bottom/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584547831768" />
+    <state width="1897" height="239" key="GridCell.Tab.0.bottom/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584548751462" />
     <state width="1281" height="172" key="GridCell.Tab.0.bottom/62.27.1304.741@62.27.1304.741" timestamp="1583518337156" />
     <state width="1259" height="159" key="GridCell.Tab.0.bottom/64.27.1302.741@64.27.1302.741" timestamp="1582784276065" />
     <state width="636" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1582986932137" />
-    <state width="1897" height="239" key="GridCell.Tab.0.center" timestamp="1584547831768">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1343" height="142" key="GridCell.Tab.0.center" timestamp="1584995075222">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1897" height="239" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584257282135" />
-    <state width="1343" height="144" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584018599043" />
+    <state width="1343" height="142" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584995075222" />
+    <state width="1897" height="238" key="GridCell.Tab.0.center/0.512.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584731435556" />
     <state width="1343" height="239" key="GridCell.Tab.0.center/0.514.1366.768/1366.0.1920.1080@0.514.1366.768" timestamp="1584373664873" />
     <state width="1897" height="239" key="GridCell.Tab.0.center/0.514.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584373693618" />
-    <state width="1897" height="239" key="GridCell.Tab.0.center/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584547831768" />
+    <state width="1897" height="239" key="GridCell.Tab.0.center/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584548751462" />
     <state width="1281" height="172" key="GridCell.Tab.0.center/62.27.1304.741@62.27.1304.741" timestamp="1583518337155" />
     <state width="1259" height="159" key="GridCell.Tab.0.center/64.27.1302.741@64.27.1302.741" timestamp="1582784276065" />
     <state width="636" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1582986932136" />
-    <state width="1897" height="239" key="GridCell.Tab.0.left" timestamp="1584547831767">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1343" height="142" key="GridCell.Tab.0.left" timestamp="1584995075222">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1897" height="239" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584257282135" />
-    <state width="1343" height="144" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584018599043" />
+    <state width="1343" height="142" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584995075222" />
+    <state width="1897" height="238" key="GridCell.Tab.0.left/0.512.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584731435556" />
     <state width="1343" height="239" key="GridCell.Tab.0.left/0.514.1366.768/1366.0.1920.1080@0.514.1366.768" timestamp="1584373664873" />
     <state width="1897" height="239" key="GridCell.Tab.0.left/0.514.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584373693618" />
-    <state width="1897" height="239" key="GridCell.Tab.0.left/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584547831767" />
+    <state width="1897" height="239" key="GridCell.Tab.0.left/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584548751462" />
     <state width="1281" height="172" key="GridCell.Tab.0.left/62.27.1304.741@62.27.1304.741" timestamp="1583518337155" />
     <state width="1259" height="159" key="GridCell.Tab.0.left/64.27.1302.741@64.27.1302.741" timestamp="1582784276065" />
     <state width="636" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1582986932136" />
-    <state width="1897" height="239" key="GridCell.Tab.0.right" timestamp="1584547831768">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1343" height="142" key="GridCell.Tab.0.right" timestamp="1584995075222">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1897" height="239" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584257282136" />
-    <state width="1343" height="144" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584018599043" />
+    <state width="1343" height="142" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584995075222" />
+    <state width="1897" height="238" key="GridCell.Tab.0.right/0.512.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584731435556" />
     <state width="1343" height="239" key="GridCell.Tab.0.right/0.514.1366.768/1366.0.1920.1080@0.514.1366.768" timestamp="1584373664873" />
     <state width="1897" height="239" key="GridCell.Tab.0.right/0.514.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584373693618" />
-    <state width="1897" height="239" key="GridCell.Tab.0.right/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584547831768" />
+    <state width="1897" height="239" key="GridCell.Tab.0.right/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584548751462" />
     <state width="1281" height="172" key="GridCell.Tab.0.right/62.27.1304.741@62.27.1304.741" timestamp="1583518337156" />
     <state width="1259" height="159" key="GridCell.Tab.0.right/64.27.1302.741@64.27.1302.741" timestamp="1582784276065" />
     <state width="636" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1582986932136" />
@@ -239,11 +248,12 @@
     </state>
     <state x="197" y="31" key="SettingsEditor/62.27.1304.741@62.27.1304.741" timestamp="1583456784752" />
     <state x="204" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1582866374325" />
-    <state x="1820" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1584538823975">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="323" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584991247312">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="323" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1584257175042" />
-    <state x="323" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1584016816295" />
+    <state x="323" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1584991247312" />
+    <state x="1820" y="289" key="com.intellij.ide.util.TipDialog/0.512.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584728024885" />
     <state x="1820" y="289" key="com.intellij.ide.util.TipDialog/0.514.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584370564319" />
     <state x="1820" y="289" key="com.intellij.ide.util.TipDialog/0.547.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584538823975" />
     <state x="370" y="225" key="com.intellij.ide.util.TipDialog/62.27.1304.741@62.27.1304.741" timestamp="1583576653473" />
@@ -261,9 +271,11 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="184" y="27" width="863" height="741" key="find.popup/70.27.1296.741@70.27.1296.741" timestamp="1582866753732" />
-    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582985097262">
-      <screen x="70" y="27" width="1296" height="741" />
+    <state x="328" y="89" width="709" height="679" key="search.everywhere.popup" timestamp="1584992067881">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
+    <state x="328" y="89" width="709" height="679" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1584992067881" />
+    <state x="1827" y="90" width="996" height="989" key="search.everywhere.popup/0.512.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584730081488" />
     <state x="381" y="89" width="672" height="678" key="search.everywhere.popup/70.27.1296.741@70.27.1296.741" timestamp="1582985097262" />
   </component>
 </project>
